@@ -16,7 +16,7 @@ class NEW extends Base {
 }
 
 // Main Class
-public class Constructor_inheritance {
+class Constructor_inheritance {
 
 	public static void main(String[] args)
 	{
